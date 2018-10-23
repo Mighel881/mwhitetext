@@ -1,0 +1,9 @@
+Package: com.dpkg.mwhitetext
+Name: MWhiteText
+Depends: mobilesubstrate
+Version: 0.2
+Architecture: iphoneos-arm
+Description: Fixes the now playing text in the music app. 
+Maintainer: dpkg_
+Author: dpkg_
+Section: Tweaks
